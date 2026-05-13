@@ -1,0 +1,185 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "AdMixerMediationTeads",
+    "printedName": "AdMixerMediationTeads",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AdMixerMediation",
+        "printedName": "AdMixerMediation",
+        "declKind": "Import",
+        "moduleName": "AdMixerMediationTeads"
+      },
+      {
+        "kind": "Import",
+        "name": "TeadsSDK",
+        "printedName": "TeadsSDK",
+        "declKind": "Import",
+        "moduleName": "AdMixerMediationTeads"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TeadsAdapter",
+        "printedName": "TeadsAdapter",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "loadVideoAd",
+            "printedName": "loadVideoAd(videoConfiguration:videoHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VideoConfiguration",
+                "printedName": "AdMixerMediation.VideoConfiguration",
+                "usr": "s:16AdMixerMediation18VideoConfigurationC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VideoHandler",
+                "printedName": "any AdMixerMediation.VideoHandler",
+                "usr": "s:16AdMixerMediation12VideoHandlerP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:21AdMixerMediationTeads0D7AdapterC09loadVideoA018videoConfiguration0H7Handlery0abC00gI0C_AG0gJ0_ptF",
+            "mangledName": "$s21AdMixerMediationTeads0D7AdapterC09loadVideoA018videoConfiguration0H7Handlery0abC00gI0C_AG0gJ0_ptF",
+            "moduleName": "AdMixerMediationTeads",
+            "overriding": true,
+            "declAttributes": [
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TeadsAdapter",
+                "printedName": "AdMixerMediationTeads.TeadsAdapter",
+                "usr": "c:@M@AdMixerMediationTeads@objc(cs)TeadsAdapter"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AdMixerMediationTeads@objc(cs)TeadsAdapter(im)init",
+            "mangledName": "$s21AdMixerMediationTeads0D7AdapterCACycfc",
+            "moduleName": "AdMixerMediationTeads",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AdMixerMediationTeads@objc(cs)TeadsAdapter",
+        "mangledName": "$s21AdMixerMediationTeads0D7AdapterC",
+        "moduleName": "AdMixerMediationTeads",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:@M@AdMixerMediation@objc(cs)Adapter",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "AdMixerMediation.Adapter",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdMixerMediation",
+        "printedName": "AdMixerMediation",
+        "declKind": "Import",
+        "moduleName": "AdMixerMediationTeads"
+      },
+      {
+        "kind": "Import",
+        "name": "TeadsSDK",
+        "printedName": "TeadsSDK",
+        "declKind": "Import",
+        "moduleName": "AdMixerMediationTeads"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
