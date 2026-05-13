@@ -1,0 +1,25 @@
+# macOS metadata files
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# IDE
+.idea/
+.vscode/
+
+# OMC / Claude
+.omc/state/
+.omc/logs/
+.claude/settings.local.json
