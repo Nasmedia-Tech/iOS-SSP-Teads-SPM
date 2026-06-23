@@ -4,9 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>._AdMixerMediationTeads</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>._Headers</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>._Info.plist</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>._Modules</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Headers/._AdMixerMediationTeads-Swift.h</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Headers/._AdMixerMediationTeads-umbrella.h</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
 		<key>Headers/AdMixerMediationTeads-Swift.h</key>
 		<data>
-		aiN8VA9cqDEVJughhDn5ymKWpNM=
+		M+RtPG/EnADpUaBLEzpsUzbffjo=
 		</data>
 		<key>Headers/AdMixerMediationTeads-umbrella.h</key>
 		<data>
@@ -14,15 +38,63 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KFJNUhrLK/H+jUa9CwJF/VbFvKQ=
+		3RMcF3jz1/SPsYYpRLmcBheYkK8=
+		</data>
+		<key>Modules/._AdMixerMediationTeads.swiftmodule</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/._module.modulemap</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
+		</data>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		5WNLV7fLHgJmVASmagPoFA4rtqs=
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qViNTxOtzxIu9rpaGswo7EY/NC0=
+		4xEl2gc7QJX2Mm86kJ9M7/MiAGo=
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		PCKFAyCWM3/zz0ATRQ8zeTa1XPo=
+		dZwuCo8EP+MKPaVuO1mvE/L1M28=
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +102,19 @@
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PCKFAyCWM3/zz0ATRQ8zeTa1XPo=
+		dZwuCo8EP+MKPaVuO1mvE/L1M28=
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hRHE4yPjLVD9eReasONULjDL5BA=
+		5yNCh01YTNhT7gStHyR0sjTcBG0=
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qViNTxOtzxIu9rpaGswo7EY/NC0=
+		4xEl2gc7QJX2Mm86kJ9M7/MiAGo=
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		k1VPxuXFWrL9AoBvlJUMy7y4c4M=
+		K6HIztjPmThTBoikIU8NPm80hZ0=
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +122,11 @@
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		k1VPxuXFWrL9AoBvlJUMy7y4c4M=
+		K6HIztjPmThTBoikIU8NPm80hZ0=
 		</data>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TiOtJcX6fxd726Y/ODX+1uuqOLE=
+		YceGW8jMLeIfVtTjqXTfiDBXnhY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,11 +135,53 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>._AdMixerMediationTeads</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>._Headers</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>._Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>._Modules</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Headers/._AdMixerMediationTeads-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Headers/._AdMixerMediationTeads-umbrella.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
 		<key>Headers/AdMixerMediationTeads-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k/Ndx2SUspgIJ79i2Ts0+D59C1LQ4vAF0DiKcHtPckc=
+			a2GFkQvUb1oLvd26AAQtaZMycdvxN8vHYXa7MW9Hvn4=
 			</data>
 		</dict>
 		<key>Headers/AdMixerMediationTeads-umbrella.h</key>
@@ -77,18 +191,102 @@
 			yuwcMJBjtEaVHvMkhA+Z1fwsBPPytQ9HNlBZL+4Ky2M=
 			</data>
 		</dict>
+		<key>Modules/._AdMixerMediationTeads.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/._module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
+		<key>Modules/AdMixerMediationTeads.swiftmodule/._x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xA7kxfkQ8Ip3JEfFMuGtzSglc2YSe1bJxHZrn21uFgg=
+			</data>
+		</dict>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3hAs9I2p2zOu03saYfH3ghPJAp57nbqQmpaAL8LxpU=
+			phidK6z5d4ShOThyiqdcG1dIGlNhBzwYBBUvXUUavDo=
 			</data>
 		</dict>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rwsPDQLryAVX5I2YAB8DHRw//u805hW1pXkyQyi7nQM=
+			/1j69xfPSQoaVhkpgDNuB68hRmBdNmaMJu89XBIhJ8o=
 			</data>
 		</dict>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +300,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rwsPDQLryAVX5I2YAB8DHRw//u805hW1pXkyQyi7nQM=
+			/1j69xfPSQoaVhkpgDNuB68hRmBdNmaMJu89XBIhJ8o=
 			</data>
 		</dict>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jD1fnoTie8r/nKnPADwuM+o1ItD78hM428Q0EV+y8Ak=
+			qoPn99/QvgKqSn9BNbaT542ZTx3pxZ9962hwmy9gkgU=
 			</data>
 		</dict>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3hAs9I2p2zOu03saYfH3ghPJAp57nbqQmpaAL8LxpU=
+			phidK6z5d4ShOThyiqdcG1dIGlNhBzwYBBUvXUUavDo=
 			</data>
 		</dict>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VSHopua2tI75OSMBTj6rDbX3+1ZMfdCecHhb7g+/tM8=
+			yw/yU75QrsnHb63KvY8eyFF/xSX5q/7arawuIShVmNI=
 			</data>
 		</dict>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +335,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VSHopua2tI75OSMBTj6rDbX3+1ZMfdCecHhb7g+/tM8=
+			yw/yU75QrsnHb63KvY8eyFF/xSX5q/7arawuIShVmNI=
 			</data>
 		</dict>
 		<key>Modules/AdMixerMediationTeads.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			psuuTr+Lse2vjmqoQfQIjNs0+ltIjR68dgcEfFa69Mo=
+			9vLrBmClEyEpGzClm6IouDBgSCjyQjE2HMS9jLFX2MU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

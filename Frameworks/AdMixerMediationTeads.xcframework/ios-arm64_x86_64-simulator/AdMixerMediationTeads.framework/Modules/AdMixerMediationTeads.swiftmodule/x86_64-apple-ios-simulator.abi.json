@@ -24,6 +24,58 @@
         "printedName": "TeadsAdapter",
         "children": [
           {
+            "kind": "Var",
+            "name": "sdkVersion",
+            "printedName": "sdkVersion",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AdMixerMediationTeads@objc(cs)TeadsAdapter(cpy)sdkVersion",
+            "mangledName": "$s21AdMixerMediationTeads0D7AdapterC10sdkVersionSSvpZ",
+            "moduleName": "AdMixerMediationTeads",
+            "static": true,
+            "overriding": true,
+            "objc_name": "sdkVersion",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl",
+              "Override",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AdMixerMediationTeads@objc(cs)TeadsAdapter(cm)sdkVersion",
+                "mangledName": "$s21AdMixerMediationTeads0D7AdapterC10sdkVersionSSvgZ",
+                "moduleName": "AdMixerMediationTeads",
+                "static": true,
+                "overriding": true,
+                "objc_name": "sdkVersion",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "loadVideoAd",
             "printedName": "loadVideoAd(videoConfiguration:videoHandler:)",
@@ -181,5 +233,13 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/iosnasmedia\/Desktop\/JSYWorkSpace\/iOS-AdMixerMediation\/AdMixerMediationTeads\/Classes\/TeadsAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 237,
+      "length": 7,
+      "value": "\"1.0.0\""
+    }
+  ]
 }

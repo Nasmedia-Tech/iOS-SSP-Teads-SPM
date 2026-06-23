@@ -10,6 +10,9 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers public class TeadsAdapter : AdMixerMediation.Adapter {
+  @objc override public class var sdkVersion: Swift.String {
+    @objc get
+  }
   override public func loadVideoAd(videoConfiguration: AdMixerMediation.VideoConfiguration, videoHandler: any AdMixerMediation.VideoHandler)
   @objc required dynamic public init()
   @objc deinit
