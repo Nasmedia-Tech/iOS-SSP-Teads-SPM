@@ -33,7 +33,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdMixerMediationTeadsBinary",
-            path: "Frameworks/AdMixerMediationTeads.xcframework"
+            url: "https://github.com/Nasmedia-Tech/iOS-SSP-Teads-SPM/releases/download/1.0.0/AdMixerMediationTeads1.0.0.xcframework.zip",
+            checksum: "26937ca06b393c5d4d04a2dc4372baf6f7c5544d2e99f1990142ed0ea27ba83b"
         ),
         .binaryTarget(
             name: "TeadsSDK", //Teads v6.1.0
