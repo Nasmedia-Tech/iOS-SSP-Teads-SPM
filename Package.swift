@@ -16,7 +16,7 @@ let package = Package(
         // SSP AdMixerMediation SDK
         .package(
             url: "https://github.com/Nasmedia-Tech/iOS-SSP-Mediation-SPM.git",
-            from: "2.3.6"
+            from: "2.4.2"
         )
     ],
     targets: [
@@ -33,11 +33,11 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdMixerMediationTeadsBinary",
-            url: "https://github.com/Nasmedia-Tech/iOS-SSP-Teads-SPM/releases/download/1.0.0/AdMixerMediationTeads1.0.0.xcframework.zip",
-            checksum: "26937ca06b393c5d4d04a2dc4372baf6f7c5544d2e99f1990142ed0ea27ba83b"
+            url: "https://github.com/Nasmedia-Tech/iOS-SSP-Teads-SPM/releases/download/1.1.0/AdMixerMediationTeads1.1.0.xcframework.zip",
+            checksum: "8420d82ee8469d909e9da7f5aa2d84b84306c2473836b2adabb148eaea7c3a2d"
         ),
         .binaryTarget(
-            name: "TeadsSDK", //Teads v6.1.0
+            name: "TeadsSDK", //Teads v6.2.0
             path: "Frameworks/TeadsSDK.xcframework"
         ),
         .binaryTarget(
