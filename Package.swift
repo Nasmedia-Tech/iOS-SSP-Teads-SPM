@@ -25,7 +25,7 @@ let package = Package(
             dependencies: [
                 "AdMixerMediationTeadsBinary",
                 "TeadsSDK",
-                "OMSDK_Teadstv",
+                "OMSDK_Teads",
                 .product(name: "AdMixerMediation",
                          package: "ios-ssp-mediation-spm")
             ],
@@ -41,8 +41,8 @@ let package = Package(
             path: "Frameworks/TeadsSDK.xcframework"
         ),
         .binaryTarget(
-            name: "OMSDK_Teadstv",
-            path: "Frameworks/OMSDK_Teadstv.xcframework"
+            name: "OMSDK_Teads",
+            path: "Frameworks/OMSDK_Teads.xcframework"
         )
     ]
 )
